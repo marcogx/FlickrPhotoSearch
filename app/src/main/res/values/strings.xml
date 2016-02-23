@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photo Search</string>
+    <string name="search">Search</string>
+    <string name="move">Move To Top</string>
+    <string name="clear">Clear Search History</string>
+    <string name="search_hint">Your keywords</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
